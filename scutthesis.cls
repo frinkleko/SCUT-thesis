@@ -323,7 +323,7 @@
         \thispagestyle{empty}
         \begin{figure}[ht]
             \centering
-            \includegraphics[height=2.75cm]{title.png}
+            \includegraphics[height=2.75cm]{image/title.png}
         \end{figure}
         \begin{center}
             \zihao{0}
